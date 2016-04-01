@@ -1,0 +1,45 @@
+{
+  "basics": {
+    "name": "Kyle Milner",
+    "label": "Software Engineer",
+    "picture": "",
+    "email": "kylemilner@me.com",
+    "phone": "07757801797",
+    "website": "kyrobot.com",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "UK",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "kyrobot",
+        "url": "https://github.com/kyRobot"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Technical",
+      "level": "",
+      "keywords": [
+        "Java",
+        "SQL",
+        "Groovy",
+        "REST API Design"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": []
+}
