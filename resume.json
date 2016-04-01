@@ -24,7 +24,17 @@
   },
   "work": [],
   "volunteer": [],
-  "education": [],
+  "education": [
+    {
+      "institution": "University Of Sheffied",
+      "area": "Artificial Intelligence & Computer Science ",
+      "studyType": "BSc(Hons) First Class",
+      "startDate": "2009-10-01",
+      "endDate": "2012-07-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
   "awards": [],
   "publications": [],
   "skills": [
@@ -32,10 +42,25 @@
       "name": "Technical",
       "level": "",
       "keywords": [
-        "Java",
+        "Java/J2EE",
         "SQL",
-        "Groovy",
-        "REST API Design"
+        "API Design",
+        "TDD/BDD",
+        "Source Control - Git, Rational Team Concert",
+        "HTML/CSS/JS (comfortable)",
+        "Swift (learning)"
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "level": "",
+      "keywords": [
+        "Agile - Scrum & Kanban",
+        "Pair Programming",
+        "Technical Communication",
+        "Code review",
+        "Problem Solving",
+        "Presenting"
       ]
     }
   ],
