@@ -5,8 +5,8 @@
     "picture": "",
     "email": "kylemilner@me.com",
     "phone": "07757801797",
-    "website": "kyrobot.com",
-    "summary": "",
+    "website": "",
+    "summary": "Kyle is a passionate, highly motivated Software Engineer who likes to write self-documenting, clean code. A self starter who loves to learn Kyle has a broad range of skills with specific focus around the Java ecosystem. Kyle never stops asking why things are done and how they can be made better. Kyle is looking for a team who share his enthusiasm for quality, who aren't afraid to move fast and break things and, most importantly, enjoy what they do",
     "location": {
       "address": "",
       "postalCode": "",
@@ -19,6 +19,11 @@
         "network": "GitHub",
         "username": "kyrobot",
         "url": "https://github.com/kyRobot"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "kylemilner",
+        "url": "https://linkedin.com/in/kylemilner"
       }
     ]
   },
@@ -33,7 +38,7 @@
         "Designed and Implemented asyncronous REST API for Search",
         "Transitioned application to new underlying datasource with zero downtime",
         "Promoted in year 1",
-        "Full optimization rewrite of Data Retreival (DAO & SQL layers) to unblock a product release",
+        "Full optimization rewrite of Data Retreival (DAO & SQL layers) to unblock a product release - measurable 10x performance after rework",
         "Introduced templated generation of Database DDL for deployment pipeline",
         "Self started proof of concept for auto generation of external source querying pluggins was productised and shipped"
       ]
@@ -99,7 +104,8 @@
         "CI - Jenkins, Gradle",
         "Source Control - Git, Rational Team Concert",
         "HTML/CSS/JS (comfortable)",
-        "Swift (learning)"
+        "Swift (learning)",
+        "Spring/Spring Boot (learning)"
       ]
     },
     {

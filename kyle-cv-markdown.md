@@ -5,14 +5,17 @@
 ## Contact
 
 Email: [kylemilner@me.com](mailto:kylemilner@me.com)  
-Website: [kyrobot.com](kyrobot.com)  
 Phone: 07757801797  
 
 
 ## Profiles
 
 [GitHub - kyrobot](https://github.com/kyRobot)  
+[LinkedIn - kylemilner](https://linkedin.com/in/kylemilner)  
 
+## Summary
+
+Kyle is a passionate, highly motivated Software Engineer who likes to write self-documenting, clean code. A self starter who loves to learn Kyle has a broad range of skills with specific focus around the Java ecosystem. Kyle never stops asking why things are done and how they can be made better. Kyle is looking for a team who share his enthusiasm for quality, who aren&#x27;t afraid to move fast and break things and, most importantly, enjoy what they do
 
 ## Work
 
@@ -22,7 +25,7 @@ Phone: 07757801797
 * Designed and Implemented asyncronous REST API for Search
 * Transitioned application to new underlying datasource with zero downtime
 * Promoted in year 1
-* Full optimization rewrite of Data Retreival (DAO &amp; SQL layers) to unblock a product release
+* Full optimization rewrite of Data Retreival (DAO &amp; SQL layers) to unblock a product release - measurable 10x performance after rework
 * Introduced templated generation of Database DDL for deployment pipeline
 * Self started proof of concept for auto generation of external source querying pluggins was productised and shipped
 
@@ -63,10 +66,11 @@ Patent Pending on a method for automatic routing of mobile phone calls when the 
 
 ## Skills
 
-* Technical (Java/J2EE, SQL (DB2), Front &amp; Backend API Design, TDD/BDD, Software Design Patterns, CI - Jenkins, Gradle, Source Control - Git, Rational Team Concert, HTML/CSS/JS (comfortable), Swift (learning))
+* Technical (Java/J2EE, SQL (DB2), Front &amp; Backend API Design, TDD/BDD, Software Design Patterns, CI - Jenkins, Gradle, Source Control - Git, Rational Team Concert, HTML/CSS/JS (comfortable), Swift (learning), Spring/Spring Boot (learning))
 * Non-Technical (Problem Solving, Agile Methodologies- Scrum &amp; Kanban, Pair Programming, Technical Communication, Code review, Problem Solving, Presenting)
 
 
 ## Interests
 
 *  (Skiing, Foreign Language Cinema, Coffee, Cooking, Technology)
+
