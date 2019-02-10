@@ -1,0 +1,7 @@
+add in cv-head-fragment
+add in cv-basics-fragment
+add in cv-publication-fragment
+add <hr /> to bottom of about section
+remove contact details from about section
+remove skills section first level <li> to columnise them
+make skills style ul styles col-md-5 & col-md-4

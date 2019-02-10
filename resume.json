@@ -6,12 +6,12 @@
     "email": "kylemilner@me.com",
     "phone": "+447757801797",
     "website": "",
-    "summary": "I am a passionate, highly motivated Software Engineer who likes to write self-documenting, clean code. A self-starter who loves to learn, I have a broad range of skills with specific focus around the Java ecosystem. I'll never stop asking why things are done and how they can be made better. I am looking for a team who share my enthusiasm for quality, who aren't afraid to move fast and break things and, most importantly, enjoy what they do.",
+    "summary": "I am a passionate, highly motivated Software Engineer who likes to write self-documenting clean code. A self-starter who loves to learn, I have a broad range of skills with specific focus around the Java ecosystem and a leaning towards backend web development. I'll never stop asking why things are done and how they can be made better. I am looking for a team who share my enthusiasm for quality, who aren't afraid to move fast and break things and, most importantly, enjoy what they do.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Melbourne",
-      "countryCode": "AUS",
+      "city": "",
+      "countryCode": "",
       "region": ""
     },
     "profiles": [
@@ -29,23 +29,32 @@
   },
   "work": [
     {
+      "company": "Sabbatical",
+      "position": "Travelling throughout Asia, New Zealand & Australia",
+      "startDate": "2018-05-01",
+      "endDate": "2019-01-01",
+      "summary": " "
+    },
+    {
       "company": "World Programming Limited, UK",
       "position": "Senior Software Engineer - WPS Hub (Backend)",
       "startDate": "2016-11-06",
       "endDate": "2018-04-01",
-      "summary": "Blah blah romsey stuff",
+      "summary": "WPS Hub is a web app for management and deployment of WPS Analytics systems across a company network with centralised user management. It provides a repository of multi-language programs for real-time and on demand execution via web APIs. Reporting directly to the Director of Technology I was responsible for the design, implementation and testing of services and RESTful APIs across multiple web apps. Primarily working in Java 8 to a service oriented architecture and with Relational SQL targetting data in graph layout I produced domain optimised data processing pipelines, developer friendly customer facing APIs and scalable, performant production code. Working closely with the frontend team I helped define the design language and UX used throughout the apps and provided occasional development help. As an experienced agile practitioner I worked with stakeholders & project managers to gather and scope requirements into manageable, achievable work items. ",
       "highlights": [
-        "thing",
-        "other thing",
-        "third thing"
+        "Led backend development through the entire software lifecycle from initial concept research & prototyping to multi-customer MVP beta and ahead of schedule production release in 12 months",
+        "Produced a bespoke Java annotation powered web framework to enable rapid microservice creation with minimal configuration",
+        "Introduced use of Docker in build pipelines which was later used company wide",
+        "Piloted adoption of Kanban style working as first agile team in the company",
+        "Made steps to becoming Full Stack with commits to production on Vue.js powered frontend & dev-ops contributions "
       ]
     },
     {
       "company": "IBM i2",
-      "position": "Analysis Web Client, Backend Software Engineer",
+      "position": "Staff Software Engineer, i2 Analyze (Backend)",
       "startDate": "2014-11-06",
       "endDate": "2016-11-06",
-      "summary": "i2 AWC is an Intelligence Analysis, Discovery & Visualisation J2EE powered web application. Main responsibilities include design and implementation of data discovery and retreival features at both the Application and Persistance layers - primarily developing in Java 8 & SQL. Working in a Kanban Agile team with 2 week sprint cadence I am responsible for building client-facing RESTful APIs for search & discovery services against a Big Data repository and the Data Access Layer interfaces required to support them. Other responsibilities include mentoring junior developers, collaborating closely with cross-site front end development teams and acting as technical contact for non-technical team members.",
+      "summary": "i2 Analyze is an Intelligence Analysis, Discovery & Visualisation J2EE powered web application. Main responsibilities include design and implementation of data discovery and retreival features at both the Application and Persistance layers - primarily developing in Java 8 & SQL. Working in a Kanban Agile team with 2 week sprint cadence I am responsible for building client-facing RESTful APIs for search & discovery services against a Big Data repository and the Data Access Layer interfaces required to support them. Other responsibilities include mentoring junior developers, collaborating closely with cross-site front end development teams and acting as technical contact for non-technical team members.",
       "highlights": [
         "Designed and Implemented an asyncronous REST API for Search",
         "Transitioned application services to using a new underlying datasource with zero downtime or test regressions",
@@ -57,7 +66,7 @@
     },
     {
       "company": "IBM CICS",
-      "position": "Developer, CICS Explorer",
+      "position": "Software Engineer, CICS Explorer",
       "startDate": "2013-10-06",
       "endDate": "2014-11-06",
       "summary": "CICS Explorer is a desktop Eclipse-based management console for the Mainframe application server CICS. Developer responsibilities included supporting released product versions, new feature design and implementation. Developing in Java 7 in a Scrum Agile team I was primarily focused on adding improvements to existing features and filling capability gaps to a similar legacy web console. Development required UI design & working with mainframe XML based web services. Also became owner of the SDK plugin for deploying web applications to CICS.",
@@ -76,16 +85,16 @@
       "summary": "Responsibilities included maintenence of existing FV test suites & creation of automated regression tests for new product features working in line with development team. Primarily working in Java with Junit and IBM regression test tooling.",
       "highlights": [
         "Owner of various product area test suites as a graduate",
-        "Provided defect fixes to development team in every release, as a tester",
+        "Provided defect fixes to development team in every release",
         "Wrote an extensible test result reporting web app used across CICS department",
-        "Produced test team onboarding education used by CICS teams worldwide"
+        "Produced onboarding education used by CICS teams worldwide"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University Of Sheffied",
+      "institution": "University Of Sheffied, UK",
       "area": "Artificial Intelligence & Computer Science ",
       "studyType": "BSc(Hons) First Class",
       "startDate": "2009-10-01",
@@ -109,29 +118,30 @@
       "name": "Technical",
       "level": "",
       "keywords": [
-        "Java/J2EE",
-        "SQL (DB2)",
+        "Java 8+",
+        "SQL & noSQL",
         "Front & Backend API Design",
         "TDD/BDD",
         "Software Design Patterns",
-        "CI - Jenkins, Gradle",
-        "Source Control - Git, Rational Team Concert",
+        "CI/CD - Jenkins, Gradle, Maven, Docker",
+        "Source Control - Git, GitHub",
         "HTML/CSS/JS (comfortable)",
-        "Swift (learning)",
-        "Spring/Spring Boot (learning)"
+        "Swift (beginner)"
       ]
     },
     {
       "name": "Non-Technical",
       "level": "",
       "keywords": [
-        "Problem Solving",
+        "Detail Oriented",
+        "Mentoring",
         "Agile Methodologies - Scrum & Kanban",
+        "JIRA",
         "Pair Programming",
         "Technical Communication",
         "Code review",
         "Problem Solving",
-        "Presenting"
+        "Presenting to Customers"
       ]
     }
   ],
@@ -144,7 +154,8 @@
         "Foreign Language Cinema",
         "Coffee",
         "Cooking",
-        "Technology"
+        "Technology",
+        "Travel"
       ]
     }
   ],

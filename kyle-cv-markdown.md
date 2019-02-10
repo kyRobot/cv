@@ -4,41 +4,49 @@ Phone: +447757801797
 Email: [kylemilner@me.com](mailto:kylemilner@me.com)
 GitHub: [https://github.com/kyRobot](https://github.com/kyRobot)
 LinkedIn: [https://linkedin.com/in/kylemilner](https://linkedin.com/in/kylemilner)
-Address: , , Melbourne, , AUS
+Address: , , , , 
 
 ## Overview
 
-I am a passionate, highly motivated Software Engineer who likes to write self-documenting, clean code. A self-starter who loves to learn, I have a broad range of skills with specific focus around the Java ecosystem. I'll never stop asking why things are done and how they can be made better. I am looking for a team who share my enthusiasm for quality, who aren't afraid to move fast and break things and, most importantly, enjoy what they do.
+I am a passionate, highly motivated Software Engineer who likes to write self-documenting clean code. A self-starter who loves to learn, I have a broad range of skills with specific focus around the Java ecosystem and a leaning towards backend web development. I'll never stop asking why things are done and how they can be made better. I am looking for a team who share my enthusiasm for quality, who aren't afraid to move fast and break things and, most importantly, enjoy what they do.
 
 ## Skills
 
 **Technical, **
 
-Java/J2EE, SQL (DB2), Front &amp; Backend API Design, TDD/BDD, Software Design Patterns, CI - Jenkins, Gradle, Source Control - Git, Rational Team Concert, HTML/CSS/JS (comfortable), Swift (learning), Spring/Spring Boot (learning)
+Java 8+, SQL &amp; noSQL, Front &amp; Backend API Design, TDD/BDD, Software Design Patterns, CI/CD - Jenkins, Gradle, Maven, Docker, Source Control - Git, GitHub, HTML/CSS/JS (comfortable), Swift (beginner)
 
 **Non-Technical, **
 
-Problem Solving, Agile Methodologies - Scrum &amp; Kanban, Pair Programming, Technical Communication, Code review, Problem Solving, Presenting
+Detail Oriented, Mentoring, Agile Methodologies - Scrum &amp; Kanban, JIRA, Pair Programming, Technical Communication, Code review, Problem Solving, Presenting to Customers
 
 ## Experience
+
+### Travelling throughout Asia, New Zealand &amp; Australia
+
+**Sabbatical** (May 2018 - January 2019)
+
+ 
 
 ### Senior Software Engineer - WPS Hub (Backend)
 
 **World Programming Limited, UK** (November 2016 - April 2018)
 
-Blah blah romsey stuff
+WPS Hub is a web app for management and deployment of WPS Analytics systems across a company network with centralised user management. It provides a repository of multi-language programs for real-time and on demand execution via web APIs. Reporting directly to the Director of Technology I was responsible for the design, implementation and testing of services and RESTful APIs across multiple web apps. Primarily working in Java 8 to a service oriented architecture and with Relational SQL targetting data in graph layout I produced domain optimised data processing pipelines, developer friendly customer facing APIs and scalable, performant production code. Working closely with the frontend team I helped define the design language and UX used throughout the apps and provided occasional development help. As an experienced agile practitioner I worked with stakeholders & project managers to gather and scope requirements into manageable, achievable work items. 
 
 #### Highlights
 
-* thing
-* other thing
-* third thing
+* Led backend development through the entire software lifecycle from initial concept research &amp; prototyping to multi-customer MVP beta and ahead of schedule production release in 12 months
+* Produced a bespoke Java annotation powered web framework to enable rapid microservice creation with minimal configuration
+* Introduced use of Docker in build pipelines which was later used company wide
+* Piloted adoption of Kanban style working as first agile team in the company
+* Made steps to becoming Full Stack with commits to production on Vue.js powered frontend &amp; dev-ops contributions 
 
-### Analysis Web Client, Backend Software Engineer
+### Staff Software Engineer, i2 Analyze (Backend)
 
 **IBM i2** (November 2014 - November 2016)
 
-i2 AWC is an Intelligence Analysis, Discovery & Visualisation J2EE powered web application. Main responsibilities include design and implementation of data discovery and retreival features at both the Application and Persistance layers - primarily developing in Java 8 & SQL. Working in a Kanban Agile team with 2 week sprint cadence I am responsible for building client-facing RESTful APIs for search & discovery services against a Big Data repository and the Data Access Layer interfaces required to support them. Other responsibilities include mentoring junior developers, collaborating closely with cross-site front end development teams and acting as technical contact for non-technical team members.
+i2 Analyze is an Intelligence Analysis, Discovery & Visualisation J2EE powered web application. Main responsibilities include design and implementation of data discovery and retreival features at both the Application and Persistance layers - primarily developing in Java 8 & SQL. Working in a Kanban Agile team with 2 week sprint cadence I am responsible for building client-facing RESTful APIs for search & discovery services against a Big Data repository and the Data Access Layer interfaces required to support them. Other responsibilities include mentoring junior developers, collaborating closely with cross-site front end development teams and acting as technical contact for non-technical team members.
 
 #### Highlights
 
@@ -49,7 +57,7 @@ i2 AWC is an Intelligence Analysis, Discovery & Visualisation J2EE powered web a
 * Independently produced a proof of concept for auto generation of external datasource plugins which was productised and shipped
 * Promoted in year one
 
-### Developer, CICS Explorer
+### Software Engineer, CICS Explorer
 
 **IBM CICS** (October 2013 - November 2014)
 
@@ -71,15 +79,15 @@ Responsibilities included maintenence of existing FV test suites & creation of a
 #### Highlights
 
 * Owner of various product area test suites as a graduate
-* Provided defect fixes to development team in every release, as a tester
+* Provided defect fixes to development team in every release
 * Wrote an extensible test result reporting web app used across CICS department
-* Produced test team onboarding education used by CICS teams worldwide
+* Produced onboarding education used by CICS teams worldwide
 
 ## Education
 
 ### Artificial Intelligence &amp; Computer Science 
 
-**University Of Sheffied** (October 2009 - July 2012)
+**University Of Sheffied, UK** (October 2009 - July 2012)
 
 Study type: BSc(Hons) First Class
 
@@ -94,5 +102,5 @@ Patent Pending on a method for automatic routing of mobile phone calls when the 
 ## Interests
 
 
-Skiing, Foreign Language Cinema, Coffee, Cooking, Technology
+Skiing, Foreign Language Cinema, Coffee, Cooking, Technology, Travel
 
