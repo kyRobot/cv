@@ -8,13 +8,15 @@ Address: , , , ,
 
 ## Overview
 
-I am a passionate, highly motivated Software Engineer who likes to write self-documenting clean code. A self-starter who loves to learn, I have a broad range of skills with specific focus around the Java ecosystem and a leaning towards backend web development. I'll never stop asking why things are done and how they can be made better. I am looking for a team who share my enthusiasm for quality, who aren't afraid to move fast and break things and, most importantly, enjoy what they do.
+I am a passionate, highly motivated Software Engineer who likes to write self-documenting clean code. A self-starter who loves to learn, I thrive working in highly skilled close knit teams working to deliver user experience focussed quality software.
+I have a wide range of skills with specific focus to-date around the Java ecosystem and backend web development and am currently self teaching frontend technologies to further broaden my skills.
+I'll never stop asking why things are done and how they can be made better. I am looking for a team who share my enthusiasm, who aren't afraid to move fast and break things and, most importantly, enjoy what they do.
 
 ## Skills
 
 **Technical, **
 
-Java 8+, SQL &amp; noSQL, Front &amp; Backend API Design, TDD/BDD, Software Design Patterns, CI/CD - Jenkins, Gradle, Maven, Docker, Source Control - Git, GitHub, HTML/CSS/JS (comfortable), Swift (beginner)
+Java 8+, SQL &amp; noSQL, Front &amp; Backend API Design, TDD/BDD, JUnit, Software Design Patterns, CI/CD - Jenkins, Gradle, Maven, Docker, Source Control - Git, GitHub, HTML/CSS/JS (comfortable), Swift (hobby), React (learning)
 
 **Non-Technical, **
 
@@ -32,7 +34,7 @@ Detail Oriented, Mentoring, Agile Methodologies - Scrum &amp; Kanban, JIRA, Pair
 
 **World Programming Limited, UK** (November 2016 - April 2018)
 
-WPS Hub is a web app for management and deployment of WPS Analytics systems across a company network with centralised user management. It provides a repository of multi-language programs for real-time and on demand execution via web APIs. Reporting directly to the Director of Technology I was responsible for the design, implementation and testing of services and RESTful APIs across multiple web apps. Primarily working in Java 8 to a service oriented architecture and with Relational SQL targetting data in graph layout I produced domain optimised data processing pipelines, developer friendly customer facing APIs and scalable, performant production code. Working closely with the frontend team I helped define the design language and UX used throughout the apps and provided occasional development help. As an experienced agile practitioner I worked with stakeholders & project managers to gather and scope requirements into manageable, achievable work items. 
+WPS Hub is a web app for management and deployment of WPS Analytics systems across a company network with centralised user management. It provides a repository of multi-language programs for real-time and on demand execution via web APIs. Reporting directly to the Director of Technology I was responsible for the design, implementation and testing of services and RESTful APIs across multiple web apps. Primarily working in Java 8 to a service oriented architecture and with Relational SQL targeting data in graph layout I produced domain optimised data processing pipelines, developer friendly customer facing APIs and scalable, performant production code. Working closely with the frontend team I helped define the design language and UX used throughout the apps and provided occasional development help. As an experienced agile practitioner I worked with stakeholders & project managers to gather and scope requirements into manageable, achievable work items. 
 
 #### Highlights
 
@@ -46,13 +48,13 @@ WPS Hub is a web app for management and deployment of WPS Analytics systems acro
 
 **IBM i2** (November 2014 - November 2016)
 
-i2 Analyze is an Intelligence Analysis, Discovery & Visualisation J2EE powered web application. Main responsibilities include design and implementation of data discovery and retreival features at both the Application and Persistance layers - primarily developing in Java 8 & SQL. Working in a Kanban Agile team with 2 week sprint cadence I am responsible for building client-facing RESTful APIs for search & discovery services against a Big Data repository and the Data Access Layer interfaces required to support them. Other responsibilities include mentoring junior developers, collaborating closely with cross-site front end development teams and acting as technical contact for non-technical team members.
+i2 Analyze is an Intelligence Analysis, Discovery & Visualisation J2EE powered web application. Main responsibilities included design and implementation of data discovery and retrieval features at both the Application and Data layers - primarily developing in Java 8 & SQL. Working in a Kanban Agile team with 2 week sprint cadence I was responsible for building client-facing RESTful APIs for search & discovery services against a Big Data repository and the Data Access Layer interfaces required to support them. Other responsibilities included mentoring junior developers, collaborating closely with cross-site front end development teams and acting as technical contact for non-technical team members.
 
 #### Highlights
 
-* Designed and Implemented an asyncronous REST API for Search
+* Designed and Implemented an asynchronous REST API for Search
 * Transitioned application services to using a new underlying datasource with zero downtime or test regressions
-* Lead a full optimization-focused rewrite of Data Retreival Service (DAO &amp; SQL layers) to unblock a product release - measurable 10x performance after rework
+* Lead a full optimisation focused rewrite of Data Retrieval Service (DAO &amp; SQL layers) to unblock a product release - measurable 10x performance after rework
 * Introduced templated generation of Database DDL for deployment pipeline
 * Independently produced a proof of concept for auto generation of external datasource plugins which was productised and shipped
 * Promoted in year one
@@ -74,20 +76,20 @@ CICS Explorer is a desktop Eclipse-based management console for the Mainframe ap
 
 **IBM CICS** (September 2012 - October 2013)
 
-Responsibilities included maintenence of existing FV test suites & creation of automated regression tests for new product features working in line with development team. Primarily working in Java with Junit and IBM regression test tooling.
+Responsibilities included maintenance of existing FV test suites & creation of automated regression tests for new product features working in line with development team. Primarily working in Java with JUnit and IBM regression test tooling.
 
 #### Highlights
 
 * Owner of various product area test suites as a graduate
 * Provided defect fixes to development team in every release
 * Wrote an extensible test result reporting web app used across CICS department
-* Produced onboarding education used by CICS teams worldwide
+* Produced on-boarding education used by CICS teams worldwide
 
 ## Education
 
 ### Artificial Intelligence &amp; Computer Science 
 
-**University Of Sheffied, UK** (October 2009 - July 2012)
+**University Of Sheffield, UK** (October 2009 - July 2012)
 
 Study type: BSc(Hons) First Class
 
