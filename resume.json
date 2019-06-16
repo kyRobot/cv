@@ -29,6 +29,18 @@
   },
   "work": [
     {
+      "company": "IDP",
+      "position": "Senior Software Engineer, Contract",
+      "startDate": "2018-03-01",
+      "endDate": "2019-05-21",
+      "summary": "IDP required a software integration between their internal CRM products and an external survey platform to enable & drive a real-time Net Promoter Score marketing project. The solution was an event driven, cloud based collection of Java 8 microservices deployed to Amazon Web Services leveraging AWS Lambda, SQS, SNS & API Gateway Services to integrate multiple products via HTTP APIs.\n Reporting directly to the Solution Architect I was singularly responsible for the design, implementation, testing & deployment of several AWS Lambda functions and supporting cloud messaging services. I was also the primary technical liaison between internal and external stakeholders with differing levels of technical understanding and familiarity with the project which required strong communication skills to translate business requirements to viable technical solutions.\n The software was launched into production ahead of schedule and was shown to handle thousands of requests per day without issue.",
+      "highlights": [
+        "Integrated four separate production business software products via AWS Cloud",
+        "Launched simultaneously across 10 countries",
+        "Produced a sample application using Lambda Functions which will now be used as a bootstrap by IDP Developers"
+      ]
+    },
+    {
       "company": "Sabbatical",
       "position": "Travelling throughout Asia, New Zealand & Australia",
       "startDate": "2018-05-01",
@@ -67,27 +79,14 @@
     {
       "company": "IBM CICS",
       "position": "Software Engineer, CICS Explorer",
-      "startDate": "2013-10-06",
+      "startDate": "2012-10-06",
       "endDate": "2014-11-06",
       "summary": "CICS Explorer is a desktop Eclipse-based management console for the Mainframe application server CICS. Developer responsibilities included supporting released product versions, new feature design and implementation. Developing in Java 7 in a Scrum Agile team I was primarily focused on adding improvements to existing features and filling capability gaps to a similar legacy web console. Development required UI design & working with mainframe XML based web services. Also became owner of the SDK plugin for deploying web applications to CICS.",
       "highlights": [
         "Presented at UK customer & partner conference",
-        "Early promotion from Graduate Scheme",
+        "Early promotion from Graduate Scheme (2013)",
         "Owned SDK plugin for IBM Liberty on CICS",
         "Introduced new feature-rich Manifest Editor which was later adopted as the default editor by the wider IBM zOS-Eclipse tools ecosystem"
-      ]
-    },
-    {
-      "company": "IBM CICS",
-      "position": "Graduate Software Engineer, CICS Explorer",
-      "startDate": "2012-09-06",
-      "endDate": "2013-10-06",
-      "summary": "Responsibilities included maintenance of existing FV test suites & creation of automated regression tests for new product features working in line with development team. Primarily working in Java with JUnit and IBM regression test tooling.",
-      "highlights": [
-        "Owner of various product area test suites as a graduate",
-        "Provided defect fixes to development team in every release",
-        "Wrote an extensible test result reporting web app used across CICS department",
-        "Produced on-boarding education used by CICS teams worldwide"
       ]
     }
   ],
@@ -118,17 +117,17 @@
       "name": "Technical",
       "level": "",
       "keywords": [
-        "Java 8+",
+        "Languages - Java 8+, JavaScript, React, HTML/CSS",
+        "Cloud - AWS",
+        "Microservices - API Gateway, Lambda",
+        "Distributed Messaging - SQS, SNS",
         "SQL & noSQL",
         "Front & Backend API Design",
-        "TDD/BDD",
-        "JUnit",
+        "Testing - TDD/BDD",
+        "Unit testing",
         "Software Design Patterns",
-        "CI/CD - Jenkins, Gradle, Maven, Docker",
-        "Source Control - Git, GitHub",
-        "HTML/CSS/JS (comfortable)",
-        "Swift (hobby)",
-        "React (learning)"
+        "CI/CD - Jenkins, Gradle, Maven, Docker, Terraform",
+        "Source Control - Git, GitHub, BitBucket"
       ]
     },
     {
