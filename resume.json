@@ -33,7 +33,7 @@
       "position": "Senior Software Engineer, Contract",
       "startDate": "2019-03-01",
       "endDate": "2019-05-21",
-      "summary": "IDP required a software integration between various internal CRM products and an external survey platform to enable and drive a real-time Net Promoter Score marketing project. The solution was an event-driven, cloud based collection of Java 8 microservices deployed to Amazon Web Services leveraging AWS Lambda, SQS, SNS and API Gateway Services to integrate multiple products via HTTP APIs.\n Reporting directly to the Solution Architect I was singularly responsible for the design, implementation, testing and deployment of several AWS Lambda functions and supporting cloud messaging services. I was also the primary technical liaison between internal and external stakeholders with differing levels of technical understanding and familiarity with the project which required strong communication skills to translate business requirements to viable technical solutions.\n The software was launched into production ahead of schedule and was shown to handle thousands of requests per day without issue.",
+      "summary": "IDP required a software integration between various internal CRM products and an external survey platform to enable and drive a real-time Net Promoter Score marketing project. The solution was an event-driven, cloud based collection of Java 8 microservices deployed to Amazon Web Services leveraging AWS Lambda, SQS, SNS and API Gateway Services to integrate multiple products via HTTP APIs.\n Reporting directly to the Solution Architect I was singularly responsible for the design, implementation, testing and deployment of several AWS Lambda functions and supporting cloud messaging services. I was also the primary technical liaison between internal and external stakeholders with differing levels of technical understanding and familiarity with the project which required strong communication skills to translate business requirements to viable technical solutions.\n The software was launched into production ahead of schedule and was shown to handle thousands of requests per day without issue.  IDP later engaged me for a second contract to deliver the next stage of their deploymeny across a further 13 countries and additionally they requested a cloud-first replacement of an end of life system be developed in Python as a pilot for future similar replacement of legacy products. Leveraging domain knowledge gained in the first contract I was able to develop, test and deploy the pilot into production as a reference implementation of IDPs cloud-first strategy going forward.",
       "highlights": [
         "Integrated four separate production business software products via AWS Cloud",
         "Launched simultaneously across 10 countries",
@@ -117,9 +117,9 @@
       "name": "Technical",
       "level": "",
       "keywords": [
-        "Languages - Java 8+, JavaScript, React, HTML/CSS",
+        "Languages - Java 8+, JavaScript, React, HTML/CSS, Python 3",
         "Cloud - AWS",
-        "Microservices - API Gateway, Lambda",
+        "Microservices - API Gateway, Lambda, EC2, DynamoDB",
         "Distributed Messaging - SQS, SNS",
         "SQL & noSQL",
         "Front & Backend API Design",
@@ -152,6 +152,7 @@
       "name": "",
       "keywords": [
         "Skiing",
+        "Diving",
         "Foreign Language Cinema",
         "Coffee",
         "Cooking",
